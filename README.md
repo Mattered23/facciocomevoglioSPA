@@ -34,10 +34,10 @@
 
 ## Come usare il progetto:
 
-1.Copiare i link dall'interno del file "Link tinkercad"
-2.Incollare i link sul browser
-3.Aprire il progetto sul proprio computer tramite il pulsante -Tinker this- una volta aperto Tinkercad online
-4. Avviare la simulazione
+### 1.Copiare i link dall'interno del file "Link tinkercad"
+### 2.Incollare i link sul browser
+### 3.Aprire il progetto sul proprio computer tramite il pulsante -Tinker this- una volta aperto Tinkercad online
+### 4. Avviare la simulazione
 
 ## Autore:
 
